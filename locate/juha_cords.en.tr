@@ -1,0 +1,7 @@
+# textdomain: juha_cords
+El jugador '@1' no está conectado=Player '@1' is not connected
+[Cords] @1: @2, @3, @4=[Cords] @1: @2, @3, @4
+Ver coordenadas. Uso: /cords [pub|priv] | /cords <jugador> [pub|priv]=View coordinates. Usage: /cords [pub|priv] | /cords <player> [pub|priv]
+[pub|priv | <jugador> [pub|priv]]=[pub|priv | <player> [pub|priv]]
+Necesitas el privilegio 'teleport' para ver coordenadas de otros=You need the 'teleport' privilege to view other players' coordinates
+Uso: /cords <jugador> [pub|priv]=Usage: /cords <player> [pub|priv]

@@ -1,0 +1,7 @@
+# textdomain: juha_cords
+El jugador '@1' no está conectado=Le joueur '@1' n'est pas connecté
+[Cords] @1: @2, @3, @4=[Cords] @1: @2, @3, @4
+Ver coordenadas. Uso: /cords [pub|priv] | /cords <jugador> [pub|priv]=Voir les coordonnées. Usage : /cords [pub|priv] | /cords <joueur> [pub|priv]
+[pub|priv | <jugador> [pub|priv]]=[pub|priv | <joueur> [pub|priv]]
+Necesitas el privilegio 'teleport' para ver coordenadas de otros=Vous avez besoin du privilège 'teleport' pour voir les coordonnées des autres joueurs
+Uso: /cords <jugador> [pub|priv]=Usage : /cords <joueur> [pub|priv]
