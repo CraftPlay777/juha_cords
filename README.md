@@ -1,38 +1,37 @@
 # juha_cords
-Un mod simple para ver coordenadas en el juego, ya sea las tuyas o las de otro jugador.
+A simple mod that adds a single /cords command to check coordinates in-game, without cluttering the chat with extra commands.
 
 
-## Comandos
-
+## Commands
 ### `/cords`
-Muestra tus coordenadas en privado (solo tú las ves).
+Shows your coordinates privately (only you can see them).
 
 ### `/cords priv`
-Igual que el anterior, por si quieres ser explícito.
+Same as above, just explicit about it.
 
 ### `/cords pub`
-Muestra tus coordenadas en el chat público, todos los jugadores las verán.
+Shows your coordinates in public chat, everyone on the server will see them.
 
-### `/cords <jugador>`
-Muestra las coordenadas de otro jugador en privado. Requiere el privilegio `teleport`.
+### `/cords <player>`
+Shows another player's coordinates privately. Requires the `teleport` privilege.
 
-### `/cords <jugador> priv`
-Igual que el anterior.
+### `/cords <player> priv`
+Same as above.
 
-### `/cords <jugador> pub`
-Muestra las coordenadas de ese jugador en el chat público. Requiere el privilegio `teleport`.
+### `/cords <player> pub`
+Shows that player's coordinates in public chat. Requires the `teleport` privilege.
 
 
-## Privilegios
-| Comando | Privilegio necesario |
+## Privileges
+| Command | Required privilege |
 |---|---|
-| `/cords` y variantes propias | Ninguno |
-| `/cords <jugador>` y variantes | `teleport` |
+| `/cords` and own variants | None |
+| `/cords <player>` and variants | `teleport` |
 
 
-## Instalación
-Descarga el mod y colócalo en tu carpeta `mods`. No tiene dependencias.
+## Installation
+Download the mod and place it in your `mods` folder. No dependencies required.
 
 
-## Licencia
-MIT — CraftPlay777
+## License
+MIT — juha (CraftPlay777)
